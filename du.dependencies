@@ -1,6 +1,6 @@
 [
  {
-   "repository":   "DirtyUnicorns/android_kernel_htc_flounder",
+   "repository":   "nethunteros/android_kernel_htc_flounder",
    "target_path":  "kernel/htc/flounder",
    "branch":       "n"
  },
