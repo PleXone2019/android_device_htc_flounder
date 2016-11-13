@@ -29,7 +29,7 @@ $(call inherit-product, device/htc/flounder/full_flounder.mk)
 $(call inherit-product, vendor/nethunter/config/common_full_phone.mk)
 $(call inherit-product, vendor/nethunter/config/nfc_enhanced.mk)
 
-PRODUCT_NAME := du_flounder
+PRODUCT_NAME := nethunter_flounder
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=flounder \
